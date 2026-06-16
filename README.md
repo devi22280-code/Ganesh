@@ -30,3 +30,5 @@ This GitHub profile documents my learning journey. As I grow my skills, I'll be 
 ## 📂 Repository Status
 
 > This repository is part of my learning journey. As I continue to learn, I'll be adding Python scripts, practice exercises, and personal projects here.
+> ## Projects
+- `calculator.py` - A simple command-line calculator written in Python that performs basic arithmetic operations.
